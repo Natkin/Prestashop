@@ -1,0 +1,108 @@
+21-07-2015 18:10:13: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae8b0554a7b
+)
+
+21-07-2015 18:15:51: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae8c5739e12
+)
+
+21-07-2015 18:20:54: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae8d86b5809
+)
+
+21-07-2015 18:26:24: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae8ed005ecb
+)
+
+21-07-2015 18:38:47: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae91b7e66c9
+)
+
+21-07-2015 18:44:48: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae9320a8912
+)
+
+21-07-2015 18:49:59: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae94574524f
+)
+
+21-07-2015 18:57:04: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae9600bba28
+)
+
+21-07-2015 19:02:20: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae973c1affc
+)
+
+21-07-2015 19:08:31: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae98afacd02
+)
+
+21-07-2015 19:17:06: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae9ab241021
+)
+
+21-07-2015 19:22:29: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae9bf536de9
+)
+
+21-07-2015 19:31:01: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae9df50ea75
+)
+
+21-07-2015 19:36:35: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55ae9f436f9bb
+)
+
+21-07-2015 19:44:45: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55aea12da321a
+)
+
+21-07-2015 19:49:55: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55aea263c82d5
+)
+
+21-07-2015 19:55:09: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55aea39d4cde8
+)
+
+21-07-2015 20:04:18: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [trace_id] => spa-55aea5c2b538a
+)
+
